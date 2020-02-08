@@ -1,0 +1,6 @@
+
+*.xml
+OpusChatClient.iml
+out/artifacts/OpusChatClient_jar/OpusChatClient.jar
+*.class
+out/production/OpusChatClient/META-INF/MANIFEST.MF
